@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title>Lua</title><desc>Glifo vetorial original do ponto astrológico Lua.</desc>
+<g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="128" cy="128" r="104"/>
+<circle cx="128" cy="128" r="84" stroke-width="2" stroke-dasharray="4 10"/>
+<path d="M78 178 Q128 70 178 178" stroke-width="3"/>
+</g>
+<text x="128" y="145" text-anchor="middle" font-family="serif" font-size="64" fill="currentColor">☽</text>
+</svg>

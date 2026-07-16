@@ -1,0 +1,1304 @@
+{
+  "schemaVersion": "1.0.0",
+  "oracle": "lenormand",
+  "deck": "baralho-cigano-base",
+  "basePath": "/oracles/lenormand",
+  "status": "review",
+  "provisional": true,
+  "license": {
+    "content": "Conteúdo visual original/provisório para o Oráculo Universal.",
+    "expected": "owned ou generated após revisão editorial."
+  },
+  "fallbackOrder": [
+    "artwork.webp",
+    "artwork.png",
+    "artwork.svg",
+    "placeholder.svg"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "key": "lenormand:rider",
+      "shortKey": "rider",
+      "slug": "cavaleiro",
+      "name": "Cavaleiro",
+      "altText": "Carta 1, Cavaleiro: representação simbólica original de movimento, notícia e chegada.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/01-cavaleiro/artwork.webp",
+        "png": "/oracles/lenormand/cards/01-cavaleiro/artwork.png",
+        "svg": "/oracles/lenormand/cards/01-cavaleiro/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/01-cavaleiro.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/01-cavaleiro/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/01-cavaleiro/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/01-cavaleiro/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Cavaleiro, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 2,
+      "key": "lenormand:clover",
+      "shortKey": "clover",
+      "slug": "trevo",
+      "name": "Trevo",
+      "altText": "Carta 2, Trevo: representação simbólica original de oportunidade breve e simplicidade.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/02-trevo/artwork.webp",
+        "png": "/oracles/lenormand/cards/02-trevo/artwork.png",
+        "svg": "/oracles/lenormand/cards/02-trevo/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/02-trevo.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/02-trevo/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/02-trevo/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/02-trevo/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Trevo, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 3,
+      "key": "lenormand:ship",
+      "shortKey": "ship",
+      "slug": "navio",
+      "name": "Navio",
+      "altText": "Carta 3, Navio: representação simbólica original de viagem, distância e expansão.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/03-navio/artwork.webp",
+        "png": "/oracles/lenormand/cards/03-navio/artwork.png",
+        "svg": "/oracles/lenormand/cards/03-navio/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/03-navio.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/03-navio/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/03-navio/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/03-navio/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Navio, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 4,
+      "key": "lenormand:house",
+      "shortKey": "house",
+      "slug": "casa",
+      "name": "Casa",
+      "altText": "Carta 4, Casa: representação simbólica original de base, lar e segurança.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/04-casa/artwork.webp",
+        "png": "/oracles/lenormand/cards/04-casa/artwork.png",
+        "svg": "/oracles/lenormand/cards/04-casa/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/04-casa.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/04-casa/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/04-casa/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/04-casa/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Casa, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 5,
+      "key": "lenormand:tree",
+      "shortKey": "tree",
+      "slug": "arvore",
+      "name": "Árvore",
+      "altText": "Carta 5, Árvore: representação simbólica original de crescimento, raízes e continuidade.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/05-arvore/artwork.webp",
+        "png": "/oracles/lenormand/cards/05-arvore/artwork.png",
+        "svg": "/oracles/lenormand/cards/05-arvore/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/05-arvore.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/05-arvore/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/05-arvore/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/05-arvore/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Árvore, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 6,
+      "key": "lenormand:clouds",
+      "shortKey": "clouds",
+      "slug": "nuvens",
+      "name": "Nuvens",
+      "altText": "Carta 6, Nuvens: representação simbólica original de incerteza e transição.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/06-nuvens/artwork.webp",
+        "png": "/oracles/lenormand/cards/06-nuvens/artwork.png",
+        "svg": "/oracles/lenormand/cards/06-nuvens/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/06-nuvens.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/06-nuvens/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/06-nuvens/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/06-nuvens/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Nuvens, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 7,
+      "key": "lenormand:snake",
+      "shortKey": "snake",
+      "slug": "cobra",
+      "name": "Cobra",
+      "altText": "Carta 7, Cobra: representação simbólica original de complexidade, estratégia e desvios.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/07-cobra/artwork.webp",
+        "png": "/oracles/lenormand/cards/07-cobra/artwork.png",
+        "svg": "/oracles/lenormand/cards/07-cobra/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/07-cobra.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/07-cobra/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/07-cobra/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/07-cobra/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Cobra, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 8,
+      "key": "lenormand:coffin",
+      "shortKey": "coffin",
+      "slug": "caixao",
+      "name": "Caixão",
+      "altText": "Carta 8, Caixão: representação simbólica original de encerramento e transformação.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/08-caixao/artwork.webp",
+        "png": "/oracles/lenormand/cards/08-caixao/artwork.png",
+        "svg": "/oracles/lenormand/cards/08-caixao/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/08-caixao.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/08-caixao/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/08-caixao/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/08-caixao/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Caixão, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 9,
+      "key": "lenormand:bouquet",
+      "shortKey": "bouquet",
+      "slug": "buque",
+      "name": "Buquê",
+      "altText": "Carta 9, Buquê: representação simbólica original de agrado, convite e reconhecimento.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/09-buque/artwork.webp",
+        "png": "/oracles/lenormand/cards/09-buque/artwork.png",
+        "svg": "/oracles/lenormand/cards/09-buque/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/09-buque.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/09-buque/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/09-buque/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/09-buque/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Buquê, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 10,
+      "key": "lenormand:scythe",
+      "shortKey": "scythe",
+      "slug": "foice",
+      "name": "Foice",
+      "altText": "Carta 10, Foice: representação simbólica original de corte, rapidez e decisão.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/10-foice/artwork.webp",
+        "png": "/oracles/lenormand/cards/10-foice/artwork.png",
+        "svg": "/oracles/lenormand/cards/10-foice/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/10-foice.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/10-foice/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/10-foice/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/10-foice/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Foice, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 11,
+      "key": "lenormand:whip",
+      "shortKey": "whip",
+      "slug": "chicote",
+      "name": "Chicote",
+      "altText": "Carta 11, Chicote: representação simbólica original de repetição, tensão e debate.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/11-chicote/artwork.webp",
+        "png": "/oracles/lenormand/cards/11-chicote/artwork.png",
+        "svg": "/oracles/lenormand/cards/11-chicote/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/11-chicote.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/11-chicote/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/11-chicote/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/11-chicote/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Chicote, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 12,
+      "key": "lenormand:birds",
+      "shortKey": "birds",
+      "slug": "passaros",
+      "name": "Pássaros",
+      "altText": "Carta 12, Pássaros: representação simbólica original de conversas, agitação e troca.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/12-passaros/artwork.webp",
+        "png": "/oracles/lenormand/cards/12-passaros/artwork.png",
+        "svg": "/oracles/lenormand/cards/12-passaros/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/12-passaros.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/12-passaros/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/12-passaros/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/12-passaros/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Pássaros, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 13,
+      "key": "lenormand:child",
+      "shortKey": "child",
+      "slug": "crianca",
+      "name": "Criança",
+      "altText": "Carta 13, Criança: representação simbólica original de início, curiosidade e pequeno porte.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/13-crianca/artwork.webp",
+        "png": "/oracles/lenormand/cards/13-crianca/artwork.png",
+        "svg": "/oracles/lenormand/cards/13-crianca/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/13-crianca.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/13-crianca/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/13-crianca/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/13-crianca/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Criança, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 14,
+      "key": "lenormand:fox",
+      "shortKey": "fox",
+      "slug": "raposa",
+      "name": "Raposa",
+      "altText": "Carta 14, Raposa: representação simbólica original de cautela, trabalho e estratégia.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/14-raposa/artwork.webp",
+        "png": "/oracles/lenormand/cards/14-raposa/artwork.png",
+        "svg": "/oracles/lenormand/cards/14-raposa/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/14-raposa.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/14-raposa/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/14-raposa/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/14-raposa/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Raposa, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 15,
+      "key": "lenormand:bear",
+      "shortKey": "bear",
+      "slug": "urso",
+      "name": "Urso",
+      "altText": "Carta 15, Urso: representação simbólica original de força, proteção e poder.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/15-urso/artwork.webp",
+        "png": "/oracles/lenormand/cards/15-urso/artwork.png",
+        "svg": "/oracles/lenormand/cards/15-urso/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/15-urso.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/15-urso/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/15-urso/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/15-urso/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Urso, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 16,
+      "key": "lenormand:stars",
+      "shortKey": "stars",
+      "slug": "estrelas",
+      "name": "Estrelas",
+      "altText": "Carta 16, Estrelas: representação simbólica original de orientação, esperança e conexão.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/16-estrelas/artwork.webp",
+        "png": "/oracles/lenormand/cards/16-estrelas/artwork.png",
+        "svg": "/oracles/lenormand/cards/16-estrelas/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/16-estrelas.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/16-estrelas/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/16-estrelas/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/16-estrelas/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Estrelas, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 17,
+      "key": "lenormand:stork",
+      "shortKey": "stork",
+      "slug": "cegonha",
+      "name": "Cegonha",
+      "altText": "Carta 17, Cegonha: representação simbólica original de mudança e melhoria.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/17-cegonha/artwork.webp",
+        "png": "/oracles/lenormand/cards/17-cegonha/artwork.png",
+        "svg": "/oracles/lenormand/cards/17-cegonha/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/17-cegonha.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/17-cegonha/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/17-cegonha/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/17-cegonha/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Cegonha, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 18,
+      "key": "lenormand:dog",
+      "shortKey": "dog",
+      "slug": "cao",
+      "name": "Cão",
+      "altText": "Carta 18, Cão: representação simbólica original de lealdade, amizade e apoio.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/18-cao/artwork.webp",
+        "png": "/oracles/lenormand/cards/18-cao/artwork.png",
+        "svg": "/oracles/lenormand/cards/18-cao/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/18-cao.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/18-cao/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/18-cao/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/18-cao/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Cão, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 19,
+      "key": "lenormand:tower",
+      "shortKey": "tower",
+      "slug": "torre",
+      "name": "Torre",
+      "altText": "Carta 19, Torre: representação simbólica original de instituição, distância e autonomia.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/19-torre/artwork.webp",
+        "png": "/oracles/lenormand/cards/19-torre/artwork.png",
+        "svg": "/oracles/lenormand/cards/19-torre/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/19-torre.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/19-torre/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/19-torre/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/19-torre/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Torre, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 20,
+      "key": "lenormand:garden",
+      "shortKey": "garden",
+      "slug": "jardim",
+      "name": "Jardim",
+      "altText": "Carta 20, Jardim: representação simbólica original de sociedade, público e encontro.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/20-jardim/artwork.webp",
+        "png": "/oracles/lenormand/cards/20-jardim/artwork.png",
+        "svg": "/oracles/lenormand/cards/20-jardim/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/20-jardim.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/20-jardim/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/20-jardim/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/20-jardim/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Jardim, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 21,
+      "key": "lenormand:mountain",
+      "shortKey": "mountain",
+      "slug": "montanha",
+      "name": "Montanha",
+      "altText": "Carta 21, Montanha: representação simbólica original de obstáculo, demora e resistência.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/21-montanha/artwork.webp",
+        "png": "/oracles/lenormand/cards/21-montanha/artwork.png",
+        "svg": "/oracles/lenormand/cards/21-montanha/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/21-montanha.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/21-montanha/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/21-montanha/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/21-montanha/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Montanha, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 22,
+      "key": "lenormand:crossroads",
+      "shortKey": "crossroads",
+      "slug": "caminhos",
+      "name": "Caminhos",
+      "altText": "Carta 22, Caminhos: representação simbólica original de escolha, alternativas e bifurcação.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/22-caminhos/artwork.webp",
+        "png": "/oracles/lenormand/cards/22-caminhos/artwork.png",
+        "svg": "/oracles/lenormand/cards/22-caminhos/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/22-caminhos.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/22-caminhos/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/22-caminhos/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/22-caminhos/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Caminhos, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 23,
+      "key": "lenormand:mice",
+      "shortKey": "mice",
+      "slug": "ratos",
+      "name": "Ratos",
+      "altText": "Carta 23, Ratos: representação simbólica original de desgaste, perda e preocupação.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/23-ratos/artwork.webp",
+        "png": "/oracles/lenormand/cards/23-ratos/artwork.png",
+        "svg": "/oracles/lenormand/cards/23-ratos/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/23-ratos.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/23-ratos/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/23-ratos/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/23-ratos/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Ratos, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 24,
+      "key": "lenormand:heart",
+      "shortKey": "heart",
+      "slug": "coracao",
+      "name": "Coração",
+      "altText": "Carta 24, Coração: representação simbólica original de afeto, desejo e vínculo.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/24-coracao/artwork.webp",
+        "png": "/oracles/lenormand/cards/24-coracao/artwork.png",
+        "svg": "/oracles/lenormand/cards/24-coracao/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/24-coracao.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/24-coracao/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/24-coracao/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/24-coracao/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Coração, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 25,
+      "key": "lenormand:ring",
+      "shortKey": "ring",
+      "slug": "alianca",
+      "name": "Aliança",
+      "altText": "Carta 25, Aliança: representação simbólica original de compromisso, ciclo e acordo.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/25-alianca/artwork.webp",
+        "png": "/oracles/lenormand/cards/25-alianca/artwork.png",
+        "svg": "/oracles/lenormand/cards/25-alianca/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/25-alianca.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/25-alianca/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/25-alianca/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/25-alianca/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Aliança, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 26,
+      "key": "lenormand:book",
+      "shortKey": "book",
+      "slug": "livro",
+      "name": "Livro",
+      "altText": "Carta 26, Livro: representação simbólica original de conhecimento, segredo e estudo.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/26-livro/artwork.webp",
+        "png": "/oracles/lenormand/cards/26-livro/artwork.png",
+        "svg": "/oracles/lenormand/cards/26-livro/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/26-livro.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/26-livro/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/26-livro/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/26-livro/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Livro, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 27,
+      "key": "lenormand:letter",
+      "shortKey": "letter",
+      "slug": "carta",
+      "name": "Carta",
+      "altText": "Carta 27, Carta: representação simbólica original de mensagem, documento e registro.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/27-carta/artwork.webp",
+        "png": "/oracles/lenormand/cards/27-carta/artwork.png",
+        "svg": "/oracles/lenormand/cards/27-carta/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/27-carta.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/27-carta/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/27-carta/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/27-carta/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Carta, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 28,
+      "key": "lenormand:man",
+      "shortKey": "man",
+      "slug": "homem",
+      "name": "Homem",
+      "altText": "Carta 28, Homem: representação simbólica original de pessoa, papel ou energia contextual.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/28-homem/artwork.webp",
+        "png": "/oracles/lenormand/cards/28-homem/artwork.png",
+        "svg": "/oracles/lenormand/cards/28-homem/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/28-homem.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/28-homem/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/28-homem/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/28-homem/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Homem, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 29,
+      "key": "lenormand:woman",
+      "shortKey": "woman",
+      "slug": "mulher",
+      "name": "Mulher",
+      "altText": "Carta 29, Mulher: representação simbólica original de pessoa, papel ou energia contextual.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/29-mulher/artwork.webp",
+        "png": "/oracles/lenormand/cards/29-mulher/artwork.png",
+        "svg": "/oracles/lenormand/cards/29-mulher/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/29-mulher.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/29-mulher/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/29-mulher/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/29-mulher/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Mulher, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 30,
+      "key": "lenormand:lilies",
+      "shortKey": "lilies",
+      "slug": "lirios",
+      "name": "Lírios",
+      "altText": "Carta 30, Lírios: representação simbólica original de maturidade, paz e ética.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/30-lirios/artwork.webp",
+        "png": "/oracles/lenormand/cards/30-lirios/artwork.png",
+        "svg": "/oracles/lenormand/cards/30-lirios/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/30-lirios.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/30-lirios/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/30-lirios/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/30-lirios/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Lírios, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 31,
+      "key": "lenormand:sun",
+      "shortKey": "sun",
+      "slug": "sol",
+      "name": "Sol",
+      "altText": "Carta 31, Sol: representação simbólica original de clareza, vitalidade e sucesso.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/31-sol/artwork.webp",
+        "png": "/oracles/lenormand/cards/31-sol/artwork.png",
+        "svg": "/oracles/lenormand/cards/31-sol/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/31-sol.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/31-sol/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/31-sol/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/31-sol/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Sol, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 32,
+      "key": "lenormand:moon",
+      "shortKey": "moon",
+      "slug": "lua",
+      "name": "Lua",
+      "altText": "Carta 32, Lua: representação simbólica original de sensibilidade, reputação e ciclos.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/32-lua/artwork.webp",
+        "png": "/oracles/lenormand/cards/32-lua/artwork.png",
+        "svg": "/oracles/lenormand/cards/32-lua/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/32-lua.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/32-lua/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/32-lua/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/32-lua/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Lua, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 33,
+      "key": "lenormand:key",
+      "shortKey": "key",
+      "slug": "chave",
+      "name": "Chave",
+      "altText": "Carta 33, Chave: representação simbólica original de solução, certeza e acesso.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/33-chave/artwork.webp",
+        "png": "/oracles/lenormand/cards/33-chave/artwork.png",
+        "svg": "/oracles/lenormand/cards/33-chave/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/33-chave.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/33-chave/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/33-chave/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/33-chave/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Chave, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 34,
+      "key": "lenormand:fish",
+      "shortKey": "fish",
+      "slug": "peixes",
+      "name": "Peixes",
+      "altText": "Carta 34, Peixes: representação simbólica original de recursos, fluxo e autonomia.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/34-peixes/artwork.webp",
+        "png": "/oracles/lenormand/cards/34-peixes/artwork.png",
+        "svg": "/oracles/lenormand/cards/34-peixes/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/34-peixes.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/34-peixes/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/34-peixes/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/34-peixes/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Peixes, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 35,
+      "key": "lenormand:anchor",
+      "shortKey": "anchor",
+      "slug": "ancora",
+      "name": "Âncora",
+      "altText": "Carta 35, Âncora: representação simbólica original de estabilidade, permanência e trabalho.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/35-ancora/artwork.webp",
+        "png": "/oracles/lenormand/cards/35-ancora/artwork.png",
+        "svg": "/oracles/lenormand/cards/35-ancora/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/35-ancora.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/35-ancora/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/35-ancora/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/35-ancora/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Âncora, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "number": 36,
+      "key": "lenormand:cross",
+      "shortKey": "cross",
+      "slug": "cruz",
+      "name": "Cruz",
+      "altText": "Carta 36, Cruz: representação simbólica original de responsabilidade, prova e significado.",
+      "artwork": {
+        "webp": "/oracles/lenormand/cards/36-cruz/artwork.webp",
+        "png": "/oracles/lenormand/cards/36-cruz/artwork.png",
+        "svg": "/oracles/lenormand/cards/36-cruz/artwork.svg"
+      },
+      "thumbnail": "/oracles/lenormand/thumbs/36-cruz.svg",
+      "placeholder": {
+        "svg": "/oracles/lenormand/placeholders/36-cruz/placeholder.svg",
+        "png": "/oracles/lenormand/placeholders/36-cruz/placeholder.png",
+        "webp": "/oracles/lenormand/placeholders/36-cruz/placeholder.webp"
+      },
+      "recommended": {
+        "width": 600,
+        "height": 900,
+        "aspectRatio": "2:3",
+        "transparentBackground": false
+      },
+      "visualPrompt": "Ilustração editorial original para uma carta Lenormand chamada Cruz, símbolo central claramente reconhecível, composição vertical 2:3, moldura clássica contemporânea, fundo limpo, paleta verde profundo, creme, vinho e dourado, leitura visual imediata, sem texto além do número e nome, sem reproduzir baralhos existentes.",
+      "negativePrompt": "sem marcas d’água, sem logotipos comerciais, sem cópia de baralhos históricos ou contemporâneos, sem excesso de detalhes, sem texto ilegível",
+      "author": "Equipe editorial Oráculo Universal",
+      "licenseExpected": "owned-or-generated",
+      "status": "review",
+      "provisional": true
+    }
+  ],
+  "icons": [
+    {
+      "key": "lenormand:icon:card",
+      "name": "card",
+      "url": "/oracles/lenormand/icons/card.svg",
+      "altText": "Ícone original de card para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:deck",
+      "name": "deck",
+      "url": "/oracles/lenormand/icons/deck.svg",
+      "altText": "Ícone original de deck para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:shuffle",
+      "name": "shuffle",
+      "url": "/oracles/lenormand/icons/shuffle.svg",
+      "altText": "Ícone original de shuffle para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:flip",
+      "name": "flip",
+      "url": "/oracles/lenormand/icons/flip.svg",
+      "altText": "Ícone original de flip para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:reading",
+      "name": "reading",
+      "url": "/oracles/lenormand/icons/reading.svg",
+      "altText": "Ícone original de reading para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:combination",
+      "name": "combination",
+      "url": "/oracles/lenormand/icons/combination.svg",
+      "altText": "Ícone original de combination para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:method",
+      "name": "method",
+      "url": "/oracles/lenormand/icons/method.svg",
+      "altText": "Ícone original de method para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:grand-tableau",
+      "name": "grand-tableau",
+      "url": "/oracles/lenormand/icons/grand-tableau.svg",
+      "altText": "Ícone original de grand-tableau para o Lenormand."
+    },
+    {
+      "key": "lenormand:icon:position",
+      "name": "position",
+      "url": "/oracles/lenormand/icons/position.svg",
+      "altText": "Ícone original de position para o Lenormand."
+    }
+  ],
+  "layouts": [
+    {
+      "key": "lenormand:layout:carta-do-dia",
+      "methodSlug": "carta-do-dia",
+      "elementCount": 1,
+      "grid": "1",
+      "url": "/oracles/lenormand/layouts/carta-do-dia.svg",
+      "altText": "Diagrama original do método carta-do-dia com 1 posições."
+    },
+    {
+      "key": "lenormand:layout:duas-cartas",
+      "methodSlug": "duas-cartas",
+      "elementCount": 2,
+      "grid": "2",
+      "url": "/oracles/lenormand/layouts/duas-cartas.svg",
+      "altText": "Diagrama original do método duas-cartas com 2 posições."
+    },
+    {
+      "key": "lenormand:layout:tres-cartas",
+      "methodSlug": "tres-cartas",
+      "elementCount": 3,
+      "grid": "3",
+      "url": "/oracles/lenormand/layouts/tres-cartas.svg",
+      "altText": "Diagrama original do método tres-cartas com 3 posições."
+    },
+    {
+      "key": "lenormand:layout:linha-cinco",
+      "methodSlug": "linha-cinco",
+      "elementCount": 5,
+      "grid": "5",
+      "url": "/oracles/lenormand/layouts/linha-cinco.svg",
+      "altText": "Diagrama original do método linha-cinco com 5 posições."
+    },
+    {
+      "key": "lenormand:layout:linha-sete",
+      "methodSlug": "linha-sete",
+      "elementCount": 7,
+      "grid": "7",
+      "url": "/oracles/lenormand/layouts/linha-sete.svg",
+      "altText": "Diagrama original do método linha-sete com 7 posições."
+    },
+    {
+      "key": "lenormand:layout:nove-cartas",
+      "methodSlug": "nove-cartas",
+      "elementCount": 9,
+      "grid": "3x3",
+      "url": "/oracles/lenormand/layouts/nove-cartas.svg",
+      "altText": "Diagrama original do método nove-cartas com 9 posições."
+    },
+    {
+      "key": "lenormand:layout:retrato",
+      "methodSlug": "retrato",
+      "elementCount": 5,
+      "grid": "cruz",
+      "url": "/oracles/lenormand/layouts/retrato.svg",
+      "altText": "Diagrama original do método retrato com 5 posições."
+    },
+    {
+      "key": "lenormand:layout:relacionamento",
+      "methodSlug": "relacionamento",
+      "elementCount": 7,
+      "grid": "relacional",
+      "url": "/oracles/lenormand/layouts/relacionamento.svg",
+      "altText": "Diagrama original do método relacionamento com 7 posições."
+    },
+    {
+      "key": "lenormand:layout:decisao",
+      "methodSlug": "decisao",
+      "elementCount": 7,
+      "grid": "bifurcação",
+      "url": "/oracles/lenormand/layouts/decisao.svg",
+      "altText": "Diagrama original do método decisao com 7 posições."
+    },
+    {
+      "key": "lenormand:layout:mesa-real-8x4-4",
+      "methodSlug": "mesa-real-8x4-4",
+      "elementCount": 36,
+      "grid": "8x4+4",
+      "url": "/oracles/lenormand/layouts/mesa-real-8x4-4.svg",
+      "altText": "Diagrama original do método mesa-real-8x4-4 com 36 posições."
+    },
+    {
+      "key": "lenormand:layout:mesa-real-9x4",
+      "methodSlug": "mesa-real-9x4",
+      "elementCount": 36,
+      "grid": "9x4",
+      "url": "/oracles/lenormand/layouts/mesa-real-9x4.svg",
+      "altText": "Diagrama original do método mesa-real-9x4 com 36 posições."
+    }
+  ],
+  "backs": [
+    {
+      "key": "lenormand:back:classic",
+      "name": "Verso clássico original",
+      "url": "/oracles/lenormand/back/classic.svg",
+      "altText": "Verso original do baralho Lenormand em verde, creme, vinho e dourado.",
+      "status": "review"
+    }
+  ],
+  "theme": {
+    "palette": [
+      "#243021",
+      "#f2dfb4",
+      "#8e3948",
+      "#d6b56c"
+    ],
+    "aspectRatio": "2/3",
+    "cardSize": {
+      "width": 600,
+      "height": 900
+    }
+  }
+}

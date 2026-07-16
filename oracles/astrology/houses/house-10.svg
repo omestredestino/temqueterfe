@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title>Casa 10</title><desc>Ícone vetorial original identificando a casa astrológica número 10.</desc>
+<g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="128" cy="128" r="104"/>
+<circle cx="128" cy="128" r="84" stroke-width="2" stroke-dasharray="4 10"/>
+<path d="M64 174 L128 70 L192 174 Z"/><path d="M96 174 V118 H160 V174"/>
+</g>
+<text x="128" y="145" text-anchor="middle" font-family="serif" font-size="64" fill="currentColor">10</text>
+</svg>
