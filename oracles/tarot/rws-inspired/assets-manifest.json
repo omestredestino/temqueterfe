@@ -1,0 +1,3459 @@
+{
+  "schemaVersion": "1.0.0",
+  "oracle": "tarot",
+  "deck": "rws-inspired",
+  "provisional": true,
+  "editorialStatus": "review",
+  "licensePolicy": "generated",
+  "physicalFilesIncluded": false,
+  "directoryRoot": "/oracles/tarot/rws-inspired",
+  "cardCount": 78,
+  "requiredPresentations": [
+    "face",
+    "thumbnail",
+    "mobile",
+    "detailed",
+    "back"
+  ],
+  "generationGuidelines": {
+    "originality": "Produzir arte nova, sem copiar composição, personagens ou estilo identificável de baralhos existentes.",
+    "typography": "Não inserir títulos, números ou textos na imagem-base; a interface deve renderizar a tipografia separadamente.",
+    "consistency": "Manter linguagem visual, moldura, iluminação, acabamento e proporção coerentes em todas as cartas.",
+    "accessibility": "Preservar contraste, foco principal reconhecível em miniatura e alt text específico.",
+    "safety": "Evitar gore, erotização explícita, símbolos de ódio e alegações sobrenaturais apresentadas como fatos."
+  },
+  "presentations": {
+    "face": {
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "format": "webp",
+      "purpose": "uso padrão"
+    },
+    "thumbnail": {
+      "width": 300,
+      "height": 500,
+      "aspectRatio": "3:5",
+      "format": "webp",
+      "purpose": "listas e seletores"
+    },
+    "mobile": {
+      "width": 600,
+      "height": 1000,
+      "aspectRatio": "3:5",
+      "format": "webp",
+      "purpose": "leitura móvel"
+    },
+    "detailed": {
+      "width": 1200,
+      "height": 2000,
+      "aspectRatio": "3:5",
+      "format": "webp",
+      "purpose": "zoom e estudo visual"
+    },
+    "back": {
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "format": "webp",
+      "purpose": "carta oculta e animações"
+    }
+  },
+  "deckBack": {
+    "key": "asset:tarot:rws-inspired:deck-back",
+    "name": "Verso original do deck Tarô RWS Inspired",
+    "kind": "image",
+    "provider": "local",
+    "expectedPath": "/oracles/tarot/rws-inspired/deck/back.webp",
+    "recommendedFormat": "webp",
+    "width": 900,
+    "height": 1500,
+    "aspectRatio": "3:5",
+    "altText": "Verso ornamental original e simétrico do baralho de Tarô, com geometria celeste abstrata.",
+    "visualPrompt": "Verso de carta de tarô inteiramente original, composição perfeitamente simétrica e reversível, geometria celeste abstrata, estrelas e linhas ornamentais finas, contraste legível, moldura discreta, sem texto, sem logotipo, sem reproduzir qualquer baralho existente, proporção vertical 3:5.",
+    "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, asymmetric orientation cue, card face, readable text, number, title, watermark, logo, photographic hands",
+    "transparentBackground": false,
+    "license": "generated",
+    "expectedLicense": "generated",
+    "author": "A definir após geração",
+    "variants": {
+      "thumbnail": "/oracles/tarot/rws-inspired/deck/back-thumb.webp",
+      "mobile": "/oracles/tarot/rws-inspired/deck/back-mobile.webp",
+      "detailed": "/oracles/tarot/rws-inspired/deck/back-detail.webp",
+      "recommended": {
+        "thumbnail": [
+          300,
+          500
+        ],
+        "mobile": [
+          600,
+          1000
+        ],
+        "detailed": [
+          1200,
+          2000
+        ]
+      }
+    },
+    "metadata": {
+      "stage": "janela-02-etapa-11",
+      "sharedByAllCards": true
+    }
+  },
+  "cards": [
+    {
+      "key": "asset:tarot:rws-inspired:major-00:face",
+      "elementKey": "tarot:rws-inspired:major-00",
+      "name": "Frente original — O Louco",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/00-o-louco/face.webp",
+      "altText": "Carta original O Louco, Arcano Maior 0, representada por viajante, precipício, pequena bagagem, animal companheiro.",
+      "visualPrompt": "Ilustração vertical original para a carta O Louco, Arcano Maior 0, simbolismo: viajante, precipício, pequena bagagem, animal companheiro; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/00-o-louco/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/00-o-louco/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/00-o-louco/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-01:face",
+      "elementKey": "tarot:rws-inspired:major-01",
+      "name": "Frente original — O Mago",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/01-o-mago/face.webp",
+      "altText": "Carta original O Mago, Arcano Maior 1, representada por mesa de instrumentos, gesto entre alto e baixo, símbolo de continuidade, jardim.",
+      "visualPrompt": "Ilustração vertical original para a carta O Mago, Arcano Maior 1, simbolismo: mesa de instrumentos, gesto entre alto e baixo, símbolo de continuidade, jardim; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/01-o-mago/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/01-o-mago/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/01-o-mago/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-02:face",
+      "elementKey": "tarot:rws-inspired:major-02",
+      "name": "Frente original — A Sacerdotisa",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/02-a-sacerdotisa/face.webp",
+      "altText": "Carta original A Sacerdotisa, Arcano Maior 2, representada por véu, dois pilares, livro ou rolo, lua.",
+      "visualPrompt": "Ilustração vertical original para a carta A Sacerdotisa, Arcano Maior 2, simbolismo: véu, dois pilares, livro ou rolo, lua; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/02-a-sacerdotisa/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/02-a-sacerdotisa/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/02-a-sacerdotisa/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-03:face",
+      "elementKey": "tarot:rws-inspired:major-03",
+      "name": "Frente original — A Imperatriz",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/03-a-imperatriz/face.webp",
+      "altText": "Carta original A Imperatriz, Arcano Maior 3, representada por trono, campo fértil, estrelas, símbolo venusiano.",
+      "visualPrompt": "Ilustração vertical original para a carta A Imperatriz, Arcano Maior 3, simbolismo: trono, campo fértil, estrelas, símbolo venusiano; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/03-a-imperatriz/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/03-a-imperatriz/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/03-a-imperatriz/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-04:face",
+      "elementKey": "tarot:rws-inspired:major-04",
+      "name": "Frente original — O Imperador",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/04-o-imperador/face.webp",
+      "altText": "Carta original O Imperador, Arcano Maior 4, representada por trono de pedra, montanhas, armadura, cetros.",
+      "visualPrompt": "Ilustração vertical original para a carta O Imperador, Arcano Maior 4, simbolismo: trono de pedra, montanhas, armadura, cetros; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/04-o-imperador/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/04-o-imperador/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/04-o-imperador/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-05:face",
+      "elementKey": "tarot:rws-inspired:major-05",
+      "name": "Frente original — O Hierofante",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/05-o-hierofante/face.webp",
+      "altText": "Carta original O Hierofante, Arcano Maior 5, representada por figura docente, chaves, discípulos, gesto ritual.",
+      "visualPrompt": "Ilustração vertical original para a carta O Hierofante, Arcano Maior 5, simbolismo: figura docente, chaves, discípulos, gesto ritual; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/05-o-hierofante/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/05-o-hierofante/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/05-o-hierofante/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-06:face",
+      "elementKey": "tarot:rws-inspired:major-06",
+      "name": "Frente original — Os Enamorados",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/06-os-enamorados/face.webp",
+      "altText": "Carta original Os Enamorados, Arcano Maior 6, representada por duas figuras, mensageiro celeste, árvore, montanha.",
+      "visualPrompt": "Ilustração vertical original para a carta Os Enamorados, Arcano Maior 6, simbolismo: duas figuras, mensageiro celeste, árvore, montanha; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/06-os-enamorados/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/06-os-enamorados/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/06-os-enamorados/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-07:face",
+      "elementKey": "tarot:rws-inspired:major-07",
+      "name": "Frente original — O Carro",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/07-o-carro/face.webp",
+      "altText": "Carta original O Carro, Arcano Maior 7, representada por veículo, duas forças opostas, cidade ao fundo, couraça.",
+      "visualPrompt": "Ilustração vertical original para a carta O Carro, Arcano Maior 7, simbolismo: veículo, duas forças opostas, cidade ao fundo, couraça; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/07-o-carro/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/07-o-carro/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/07-o-carro/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-08:face",
+      "elementKey": "tarot:rws-inspired:major-08",
+      "name": "Frente original — A Força",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/08-a-forca/face.webp",
+      "altText": "Carta original A Força, Arcano Maior 8, representada por figura humana, leão, símbolo de continuidade, paisagem aberta.",
+      "visualPrompt": "Ilustração vertical original para a carta A Força, Arcano Maior 8, simbolismo: figura humana, leão, símbolo de continuidade, paisagem aberta; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/08-a-forca/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/08-a-forca/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/08-a-forca/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-09:face",
+      "elementKey": "tarot:rws-inspired:major-09",
+      "name": "Frente original — O Eremita",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/09-o-eremita/face.webp",
+      "altText": "Carta original O Eremita, Arcano Maior 9, representada por lanterna, cajado, manto, cume.",
+      "visualPrompt": "Ilustração vertical original para a carta O Eremita, Arcano Maior 9, simbolismo: lanterna, cajado, manto, cume; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/09-o-eremita/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/09-o-eremita/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/09-o-eremita/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-10:face",
+      "elementKey": "tarot:rws-inspired:major-10",
+      "name": "Frente original — A Roda da Fortuna",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/10-a-roda-da-fortuna/face.webp",
+      "altText": "Carta original A Roda da Fortuna, Arcano Maior 10, representada por roda, figuras ascendentes e descendentes, símbolos alados, nuvens.",
+      "visualPrompt": "Ilustração vertical original para a carta A Roda da Fortuna, Arcano Maior 10, simbolismo: roda, figuras ascendentes e descendentes, símbolos alados, nuvens; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/10-a-roda-da-fortuna/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/10-a-roda-da-fortuna/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/10-a-roda-da-fortuna/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-11:face",
+      "elementKey": "tarot:rws-inspired:major-11",
+      "name": "Frente original — A Justiça",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/11-a-justica/face.webp",
+      "altText": "Carta original A Justiça, Arcano Maior 11, representada por balança, espada vertical, trono, cortina.",
+      "visualPrompt": "Ilustração vertical original para a carta A Justiça, Arcano Maior 11, simbolismo: balança, espada vertical, trono, cortina; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/11-a-justica/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/11-a-justica/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/11-a-justica/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-12:face",
+      "elementKey": "tarot:rws-inspired:major-12",
+      "name": "Frente original — O Enforcado",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/12-o-enforcado/face.webp",
+      "altText": "Carta original O Enforcado, Arcano Maior 12, representada por figura suspensa, halo, árvore ou estrutura viva, pernas cruzadas.",
+      "visualPrompt": "Ilustração vertical original para a carta O Enforcado, Arcano Maior 12, simbolismo: figura suspensa, halo, árvore ou estrutura viva, pernas cruzadas; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/12-o-enforcado/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/12-o-enforcado/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/12-o-enforcado/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-13:face",
+      "elementKey": "tarot:rws-inspired:major-13",
+      "name": "Frente original — A Morte",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/13-a-morte/face.webp",
+      "altText": "Carta original A Morte, Arcano Maior 13, representada por figura em movimento, estandarte, horizonte luminoso, figuras diante da mudança.",
+      "visualPrompt": "Ilustração vertical original para a carta A Morte, Arcano Maior 13, simbolismo: figura em movimento, estandarte, horizonte luminoso, figuras diante da mudança; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/13-a-morte/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/13-a-morte/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/13-a-morte/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-14:face",
+      "elementKey": "tarot:rws-inspired:major-14",
+      "name": "Frente original — A Temperança",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/14-a-temperanca/face.webp",
+      "altText": "Carta original A Temperança, Arcano Maior 14, representada por dois recipientes, um pé na água, caminho, luz ao horizonte.",
+      "visualPrompt": "Ilustração vertical original para a carta A Temperança, Arcano Maior 14, simbolismo: dois recipientes, um pé na água, caminho, luz ao horizonte; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/14-a-temperanca/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/14-a-temperanca/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/14-a-temperanca/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-15:face",
+      "elementKey": "tarot:rws-inspired:major-15",
+      "name": "Frente original — O Diabo",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/15-o-diabo/face.webp",
+      "altText": "Carta original O Diabo, Arcano Maior 15, representada por figura central, correntes frouxas, duas figuras, pedestal.",
+      "visualPrompt": "Ilustração vertical original para a carta O Diabo, Arcano Maior 15, simbolismo: figura central, correntes frouxas, duas figuras, pedestal; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/15-o-diabo/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/15-o-diabo/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/15-o-diabo/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-16:face",
+      "elementKey": "tarot:rws-inspired:major-16",
+      "name": "Frente original — A Torre",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/16-a-torre/face.webp",
+      "altText": "Carta original A Torre, Arcano Maior 16, representada por torre atingida, coroa deslocada, figuras em queda, faíscas.",
+      "visualPrompt": "Ilustração vertical original para a carta A Torre, Arcano Maior 16, simbolismo: torre atingida, coroa deslocada, figuras em queda, faíscas; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/16-a-torre/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/16-a-torre/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/16-a-torre/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-17:face",
+      "elementKey": "tarot:rws-inspired:major-17",
+      "name": "Frente original — A Estrela",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/17-a-estrela/face.webp",
+      "altText": "Carta original A Estrela, Arcano Maior 17, representada por figura junto à água, jarros, estrela principal, aves e vegetação.",
+      "visualPrompt": "Ilustração vertical original para a carta A Estrela, Arcano Maior 17, simbolismo: figura junto à água, jarros, estrela principal, aves e vegetação; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/17-a-estrela/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/17-a-estrela/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/17-a-estrela/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-18:face",
+      "elementKey": "tarot:rws-inspired:major-18",
+      "name": "Frente original — A Lua",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/18-a-lua/face.webp",
+      "altText": "Carta original A Lua, Arcano Maior 18, representada por lua, caminho, duas torres, animais em alerta.",
+      "visualPrompt": "Ilustração vertical original para a carta A Lua, Arcano Maior 18, simbolismo: lua, caminho, duas torres, animais em alerta; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/18-a-lua/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/18-a-lua/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/18-a-lua/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-19:face",
+      "elementKey": "tarot:rws-inspired:major-19",
+      "name": "Frente original — O Sol",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/19-o-sol/face.webp",
+      "altText": "Carta original O Sol, Arcano Maior 19, representada por sol radiante, criança, muro, flores altas.",
+      "visualPrompt": "Ilustração vertical original para a carta O Sol, Arcano Maior 19, simbolismo: sol radiante, criança, muro, flores altas; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/19-o-sol/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/19-o-sol/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/19-o-sol/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-20:face",
+      "elementKey": "tarot:rws-inspired:major-20",
+      "name": "Frente original — O Julgamento",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/20-o-julgamento/face.webp",
+      "altText": "Carta original O Julgamento, Arcano Maior 20, representada por mensageiro com trombeta, figuras que se erguem, montanhas, água.",
+      "visualPrompt": "Ilustração vertical original para a carta O Julgamento, Arcano Maior 20, simbolismo: mensageiro com trombeta, figuras que se erguem, montanhas, água; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/20-o-julgamento/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/20-o-julgamento/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/20-o-julgamento/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:major-21:face",
+      "elementKey": "tarot:rws-inspired:major-21",
+      "name": "Frente original — O Mundo",
+      "expectedPath": "/oracles/tarot/rws-inspired/major/21-o-mundo/face.webp",
+      "altText": "Carta original O Mundo, Arcano Maior 21, representada por figura central em movimento, guirlanda, quatro guardiões, céu aberto.",
+      "visualPrompt": "Ilustração vertical original para a carta O Mundo, Arcano Maior 21, simbolismo: figura central em movimento, guirlanda, quatro guardiões, céu aberto; composição narrativa contemporânea, detalhes elegantes, leitura visual clara em miniatura, borda discreta sem texto, arte inteiramente nova, proporção 3:5.",
+      "negativePrompt": "Rider-Waite-Smith artwork, Pamela Colman Smith style imitation, existing tarot deck, copied composition, readable text, number, title, watermark, logo, cropped subject, extra limbs",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "A definir após geração",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 900,
+        "height": 1500,
+        "aspectRatio": "3:5"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/major/21-o-mundo/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/major/21-o-mundo/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/major/21-o-mundo/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-ace:face",
+      "elementKey": "tarot:rws-inspired:wands-ace",
+      "name": "Ás de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/as-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Ás de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Ás de Paus, simbolismo de centelha, bastão vivo, brotos, horizonte aberto, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/as-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/as-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/as-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-02:face",
+      "elementKey": "tarot:rws-inspired:wands-02",
+      "name": "Dois de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/dois-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Dois de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dois de Paus, simbolismo de dois bastões, mapa, muralha, horizonte, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/dois-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/dois-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/dois-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-03:face",
+      "elementKey": "tarot:rws-inspired:wands-03",
+      "name": "Três de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/tres-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Três de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Três de Paus, simbolismo de três bastões, navios, costa elevada, horizonte, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/tres-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/tres-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/tres-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-04:face",
+      "elementKey": "tarot:rws-inspired:wands-04",
+      "name": "Quatro de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/quatro-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Quatro de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Quatro de Paus, simbolismo de quatro bastões, guirlanda, portal, comunidade, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/quatro-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/quatro-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/quatro-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-05:face",
+      "elementKey": "tarot:rws-inspired:wands-05",
+      "name": "Cinco de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/cinco-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Cinco de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cinco de Paus, simbolismo de cinco bastões, grupo em movimento, cruzamento de gestos, terreno aberto, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/cinco-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/cinco-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/cinco-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-06:face",
+      "elementKey": "tarot:rws-inspired:wands-06",
+      "name": "Seis de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/seis-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Seis de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Seis de Paus, simbolismo de seis bastões, coroa vegetal, procissão, estandarte, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/seis-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/seis-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/seis-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-07:face",
+      "elementKey": "tarot:rws-inspired:wands-07",
+      "name": "Sete de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/sete-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Sete de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Sete de Paus, simbolismo de sete bastões, posição elevada, oposição abaixo, postura firme, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/sete-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/sete-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/sete-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-08:face",
+      "elementKey": "tarot:rws-inspired:wands-08",
+      "name": "Oito de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/oito-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Oito de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Oito de Paus, simbolismo de oito bastões em voo, céu aberto, paisagem distante, linhas diagonais, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/oito-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/oito-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/oito-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-09:face",
+      "elementKey": "tarot:rws-inspired:wands-09",
+      "name": "Nove de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/nove-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Nove de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Nove de Paus, simbolismo de nove bastões, figura com faixa, cerca, posição de guarda, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/nove-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/nove-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/nove-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-10:face",
+      "elementKey": "tarot:rws-inspired:wands-10",
+      "name": "Dez de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/dez-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Dez de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dez de Paus, simbolismo de dez bastões, feixe pesado, caminho, cidade ao fundo, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/dez-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/dez-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/dez-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-page:face",
+      "elementKey": "tarot:rws-inspired:wands-page",
+      "name": "Pajem de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/pajem-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Pajem de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Pajem de Paus, simbolismo de jovem mensageiro, bastão com brotos, deserto, roupa vibrante, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/pajem-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/pajem-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/pajem-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-knight:face",
+      "elementKey": "tarot:rws-inspired:wands-knight",
+      "name": "Cavaleiro de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/cavaleiro-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Cavaleiro de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cavaleiro de Paus, simbolismo de cavaleiro em movimento, bastão erguido, cavalo dinâmico, paisagem árida, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/cavaleiro-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/cavaleiro-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/cavaleiro-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-queen:face",
+      "elementKey": "tarot:rws-inspired:wands-queen",
+      "name": "Rainha de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/rainha-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Rainha de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rainha de Paus, simbolismo de rainha entronizada, bastão florido, girassol, felino atento, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/rainha-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/rainha-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/rainha-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:wands-king:face",
+      "elementKey": "tarot:rws-inspired:wands-king",
+      "name": "Rei de Paus — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/wands/rei-de-paus/face.webp",
+      "altText": "Ilustração simbólica original de Rei de Paus, carta do naipe de Paus.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rei de Paus, simbolismo de rei entronizado, bastão vivo, manto com salamandras, paisagem quente, atmosfera de Fogo, composição editorial contemporânea, sem copiar nenhum baralho existente, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, números impressos, logotipo, marca d’água, cópia de Rider-Waite-Smith, moldura protegida, anatomia incorreta, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/wands/rei-de-paus/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/wands/rei-de-paus/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/wands/rei-de-paus/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-ace:face",
+      "elementKey": "tarot:rws-inspired:cups-ace",
+      "name": "Ás de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/as-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Ás de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Ás de Copas, taça transbordante, água corrente, lótus, céu luminoso, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/as-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/as-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/as-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-02:face",
+      "elementKey": "tarot:rws-inspired:cups-02",
+      "name": "Dois de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/dois-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Dois de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dois de Copas, duas taças, duas figuras, ponte, símbolo de união, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/dois-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/dois-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/dois-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-03:face",
+      "elementKey": "tarot:rws-inspired:cups-03",
+      "name": "Três de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/tres-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Três de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Três de Copas, três taças, roda de pessoas, frutas, fitas, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/tres-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/tres-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/tres-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-04:face",
+      "elementKey": "tarot:rws-inspired:cups-04",
+      "name": "Quatro de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/quatro-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Quatro de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Quatro de Copas, quatro taças, figura recolhida, árvore, taça oferecida, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/quatro-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/quatro-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/quatro-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-05:face",
+      "elementKey": "tarot:rws-inspired:cups-05",
+      "name": "Cinco de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/cinco-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Cinco de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cinco de Copas, taças derramadas, duas taças intactas, ponte, rio, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/cinco-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/cinco-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/cinco-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-06:face",
+      "elementKey": "tarot:rws-inspired:cups-06",
+      "name": "Seis de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/seis-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Seis de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Seis de Copas, seis taças com flores, crianças, pátio antigo, presente, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/seis-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/seis-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/seis-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-07:face",
+      "elementKey": "tarot:rws-inspired:cups-07",
+      "name": "Sete de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/sete-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Sete de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Sete de Copas, sete taças, nuvens, objetos simbólicos, figura contemplativa, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/sete-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/sete-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/sete-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-08:face",
+      "elementKey": "tarot:rws-inspired:cups-08",
+      "name": "Oito de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/oito-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Oito de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Oito de Copas, oito taças, caminho noturno, lua, montanhas, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/oito-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/oito-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/oito-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-09:face",
+      "elementKey": "tarot:rws-inspired:cups-09",
+      "name": "Nove de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/nove-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Nove de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Nove de Copas, nove taças, assento, cortina, mesa, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/nove-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/nove-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/nove-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-10:face",
+      "elementKey": "tarot:rws-inspired:cups-10",
+      "name": "Dez de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/dez-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Dez de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dez de Copas, dez taças em arco, família, casa, paisagem fértil, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/dez-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/dez-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/dez-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-page:face",
+      "elementKey": "tarot:rws-inspired:cups-page",
+      "name": "Pajem de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/pajem-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Pajem de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Pajem de Copas, jovem com taça, peixe simbólico, mar, vestes leves, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/pajem-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/pajem-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/pajem-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-knight:face",
+      "elementKey": "tarot:rws-inspired:cups-knight",
+      "name": "Cavaleiro de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/cavaleiro-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Cavaleiro de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cavaleiro de Copas, cavaleiro, taça oferecida, cavalo sereno, rio, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/cavaleiro-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/cavaleiro-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/cavaleiro-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-queen:face",
+      "elementKey": "tarot:rws-inspired:cups-queen",
+      "name": "Rainha de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/rainha-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Rainha de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rainha de Copas, rainha entronizada, taça fechada, mar, conchas, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/rainha-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/rainha-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/rainha-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:cups-king:face",
+      "elementKey": "tarot:rws-inspired:cups-king",
+      "name": "Rei de Copas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/cups/rei-de-copas/face.webp",
+      "altText": "Ilustração simbólica original de Rei de Copas, carta do naipe de Copas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rei de Copas, rei entronizado, taça, cetro, mar agitado, atmosfera aquática, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/cups/rei-de-copas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/cups/rei-de-copas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/cups/rei-de-copas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-ace:face",
+      "elementKey": "tarot:rws-inspired:swords-ace",
+      "name": "Ás de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/as-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Ás de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Ás de Espadas, espada erguida, coroa luminosa, céu aberto, montanhas, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/as-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/as-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/as-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-02:face",
+      "elementKey": "tarot:rws-inspired:swords-02",
+      "name": "Dois de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/dois-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Dois de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dois de Espadas, duas espadas, figura vendada, mar calmo, lua crescente, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/dois-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/dois-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/dois-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-03:face",
+      "elementKey": "tarot:rws-inspired:swords-03",
+      "name": "Três de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/tres-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Três de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Três de Espadas, coração simbólico, três espadas, chuva, nuvens abertas, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/tres-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/tres-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/tres-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-04:face",
+      "elementKey": "tarot:rws-inspired:swords-04",
+      "name": "Quatro de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/quatro-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Quatro de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Quatro de Espadas, quatro espadas, leito simples, janela, luz suave, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/quatro-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/quatro-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/quatro-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-05:face",
+      "elementKey": "tarot:rws-inspired:swords-05",
+      "name": "Cinco de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/cinco-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Cinco de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cinco de Espadas, cinco espadas, campo vazio, figuras afastadas, vento forte, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/cinco-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/cinco-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/cinco-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-06:face",
+      "elementKey": "tarot:rws-inspired:swords-06",
+      "name": "Seis de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/seis-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Seis de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Seis de Espadas, barco simples, seis espadas, água em mudança, margem distante, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/seis-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/seis-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/seis-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-07:face",
+      "elementKey": "tarot:rws-inspired:swords-07",
+      "name": "Sete de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/sete-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Sete de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Sete de Espadas, sete espadas, caminho lateral, tendas ao longe, amanhecer, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/sete-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/sete-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/sete-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-08:face",
+      "elementKey": "tarot:rws-inspired:swords-08",
+      "name": "Oito de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/oito-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Oito de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Oito de Espadas, oito espadas, figura entre faixas, solo úmido, abertura ao fundo, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/oito-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/oito-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/oito-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-09:face",
+      "elementKey": "tarot:rws-inspired:swords-09",
+      "name": "Nove de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/nove-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Nove de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Nove de Espadas, nove espadas, quarto escuro, janela noturna, mãos sobre o rosto, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/nove-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/nove-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/nove-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-10:face",
+      "elementKey": "tarot:rws-inspired:swords-10",
+      "name": "Dez de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/dez-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Dez de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dez de Espadas, dez espadas, horizonte iluminado, solo escuro, primeira luz, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/dez-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/dez-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/dez-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-page:face",
+      "elementKey": "tarot:rws-inspired:swords-page",
+      "name": "Pajem de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/pajem-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Pajem de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Pajem de Espadas, jovem observador, espada leve, nuvens rápidas, pássaros, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/pajem-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/pajem-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/pajem-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-knight:face",
+      "elementKey": "tarot:rws-inspired:swords-knight",
+      "name": "Cavaleiro de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/cavaleiro-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Cavaleiro de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cavaleiro de Espadas, cavaleiro, espada elevada, vento intenso, caminho aberto, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/cavaleiro-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/cavaleiro-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/cavaleiro-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-queen:face",
+      "elementKey": "tarot:rws-inspired:swords-queen",
+      "name": "Rainha de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/rainha-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Rainha de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rainha de Espadas, rainha, espada vertical, trono aéreo, borboleta, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/rainha-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/rainha-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/rainha-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:swords-king:face",
+      "elementKey": "tarot:rws-inspired:swords-king",
+      "name": "Rei de Espadas — frente",
+      "expectedPath": "/oracles/tarot/rws-inspired/swords/rei-de-espadas/face.webp",
+      "altText": "Ilustração simbólica original de Rei de Espadas, carta do naipe de Espadas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rei de Espadas, rei, espada frontal, trono elevado, céu límpido, atmosfera aérea, composição contemporânea original, sem copiar baralhos, sem texto, sem marca d'água",
+      "negativePrompt": "texto, letras, logotipo, marca d’água, cópia de Rider-Waite-Smith, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1792,
+        "aspectRatio": "4:7"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/swords/rei-de-espadas/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/swords/rei-de-espadas/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/swords/rei-de-espadas/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-ace:face",
+      "elementKey": "tarot:rws-inspired:pentacles-ace",
+      "name": "Ás de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/as-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Ás de Ouros, com moeda dourada, mãos abertas, jardim fértil.",
+      "visualPrompt": "Ilustração vertical original de tarô para Ás de Ouros; moeda dourada, mãos abertas, jardim fértil, caminho ao horizonte; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-02:face",
+      "elementKey": "tarot:rws-inspired:pentacles-02",
+      "name": "Dois de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/dois-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Dois de Ouros, com duas moedas, laço infinito, ondas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dois de Ouros; duas moedas, laço infinito, ondas, embarcações; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-03:face",
+      "elementKey": "tarot:rws-inspired:pentacles-03",
+      "name": "Três de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/tres-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Três de Ouros, com três moedas, oficina, arquitetura.",
+      "visualPrompt": "Ilustração vertical original de tarô para Três de Ouros; três moedas, oficina, arquitetura, equipe; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-04:face",
+      "elementKey": "tarot:rws-inspired:pentacles-04",
+      "name": "Quatro de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/quatro-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Quatro de Ouros, com quatro moedas, baú, muralha.",
+      "visualPrompt": "Ilustração vertical original de tarô para Quatro de Ouros; quatro moedas, baú, muralha, cidade; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-05:face",
+      "elementKey": "tarot:rws-inspired:pentacles-05",
+      "name": "Cinco de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/cinco-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Cinco de Ouros, com cinco moedas, neve, abrigo iluminado.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cinco de Ouros; cinco moedas, neve, abrigo iluminado, duas figuras; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-06:face",
+      "elementKey": "tarot:rws-inspired:pentacles-06",
+      "name": "Seis de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/seis-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Seis de Ouros, com seis moedas, balança, mãos ofertando.",
+      "visualPrompt": "Ilustração vertical original de tarô para Seis de Ouros; seis moedas, balança, mãos ofertando, círculo comunitário; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-07:face",
+      "elementKey": "tarot:rws-inspired:pentacles-07",
+      "name": "Sete de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/sete-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Sete de Ouros, com sete moedas, planta cultivada, ferramenta.",
+      "visualPrompt": "Ilustração vertical original de tarô para Sete de Ouros; sete moedas, planta cultivada, ferramenta, campo; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-08:face",
+      "elementKey": "tarot:rws-inspired:pentacles-08",
+      "name": "Oito de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/oito-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Oito de Ouros, com oito moedas, bancada, ferramentas.",
+      "visualPrompt": "Ilustração vertical original de tarô para Oito de Ouros; oito moedas, bancada, ferramentas, peças em progresso; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-09:face",
+      "elementKey": "tarot:rws-inspired:pentacles-09",
+      "name": "Nove de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/nove-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Nove de Ouros, com nove moedas, jardim, ave.",
+      "visualPrompt": "Ilustração vertical original de tarô para Nove de Ouros; nove moedas, jardim, ave, frutos maduros; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-10:face",
+      "elementKey": "tarot:rws-inspired:pentacles-10",
+      "name": "Dez de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/dez-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Dez de Ouros, com dez moedas, casa ancestral, família.",
+      "visualPrompt": "Ilustração vertical original de tarô para Dez de Ouros; dez moedas, casa ancestral, família, árvore antiga; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-page:face",
+      "elementKey": "tarot:rws-inspired:pentacles-page",
+      "name": "Pajem de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/pajem-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Pajem de Ouros, com moeda observada, jovem aprendiz, campo verde.",
+      "visualPrompt": "Ilustração vertical original de tarô para Pajem de Ouros; moeda observada, jovem aprendiz, campo verde, caderno; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-knight:face",
+      "elementKey": "tarot:rws-inspired:pentacles-knight",
+      "name": "Cavaleiro de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/cavaleiro-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Cavaleiro de Ouros, com cavalo firme, moeda protegida, campo arado.",
+      "visualPrompt": "Ilustração vertical original de tarô para Cavaleiro de Ouros; cavalo firme, moeda protegida, campo arado, armadura terrosa; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-queen:face",
+      "elementKey": "tarot:rws-inspired:pentacles-queen",
+      "name": "Rainha de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/rainha-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Rainha de Ouros, com trono natural, moeda acolhida, coelho.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rainha de Ouros; trono natural, moeda acolhida, coelho, jardim abundante; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    },
+    {
+      "key": "asset:tarot:rws-inspired:pentacles-king:face",
+      "elementKey": "tarot:rws-inspired:pentacles-king",
+      "name": "Rei de Ouros — arte original",
+      "expectedPath": "/oracles/tarot/rws-inspired/pentacles/rei-de-ouros.webp",
+      "altText": "Ilustração simbólica original de Rei de Ouros, com trono de pedra, moeda soberana, vinhedos.",
+      "visualPrompt": "Ilustração vertical original de tarô para Rei de Ouros; trono de pedra, moeda soberana, vinhedos, touros esculpidos; atmosfera terrosa, detalhada, simbólica, composição inédita, sem copiar baralhos existentes, sem texto, proporção 2:3.",
+      "negativePrompt": "texto, logotipo, marca d’água, moldura copiada, reprodução de baralho existente, mãos deformadas, baixa resolução",
+      "transparentBackground": false,
+      "license": "generated",
+      "expectedLicense": "generated",
+      "author": "Oráculo Universal — geração futura",
+      "width": 900,
+      "height": 1500,
+      "aspectRatio": "3:5",
+      "recommendedFormat": "webp",
+      "sourceSpecification": {
+        "width": 1024,
+        "height": 1536,
+        "aspectRatio": "2:3"
+      },
+      "variants": {
+        "thumbnail": "/oracles/tarot/rws-inspired/pentacles/thumb.webp",
+        "mobile": "/oracles/tarot/rws-inspired/pentacles/mobile.webp",
+        "detailed": "/oracles/tarot/rws-inspired/pentacles/detail.webp",
+        "recommended": {
+          "thumbnail": [
+            300,
+            500
+          ],
+          "mobile": [
+            600,
+            1000
+          ],
+          "detailed": [
+            1200,
+            2000
+          ]
+        }
+      },
+      "status": "review",
+      "provisional": true
+    }
+  ]
+}
