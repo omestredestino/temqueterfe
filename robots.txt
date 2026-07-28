@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /studio
+Disallow: /pagamento/
+Disallow: /historico
+
+Sitemap: https://temqueterfe.com.br/sitemap.xml
