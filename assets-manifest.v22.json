@@ -1,0 +1,640 @@
+{
+  "version": "22.0.0",
+  "generatedAt": "2026-07-28",
+  "status": "provisional-replaceable",
+  "policy": "SVG é a matriz editável; PNG e WebP são derivados. Todos os caminhos permanecem estáveis para substituição direta.",
+  "lenormand": [
+    {
+      "number": 1,
+      "slug": "cavaleiro",
+      "name": "Cavaleiro",
+      "base": "/oracles/lenormand/cards/01-cavaleiro/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 2,
+      "slug": "trevo",
+      "name": "Trevo",
+      "base": "/oracles/lenormand/cards/02-trevo/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 3,
+      "slug": "navio",
+      "name": "Navio",
+      "base": "/oracles/lenormand/cards/03-navio/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 4,
+      "slug": "casa",
+      "name": "Casa",
+      "base": "/oracles/lenormand/cards/04-casa/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 5,
+      "slug": "arvore",
+      "name": "Árvore",
+      "base": "/oracles/lenormand/cards/05-arvore/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 6,
+      "slug": "nuvens",
+      "name": "Nuvens",
+      "base": "/oracles/lenormand/cards/06-nuvens/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 7,
+      "slug": "cobra",
+      "name": "Cobra",
+      "base": "/oracles/lenormand/cards/07-cobra/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 8,
+      "slug": "caixao",
+      "name": "Caixão",
+      "base": "/oracles/lenormand/cards/08-caixao/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 9,
+      "slug": "buque",
+      "name": "Buquê",
+      "base": "/oracles/lenormand/cards/09-buque/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 10,
+      "slug": "foice",
+      "name": "Foice",
+      "base": "/oracles/lenormand/cards/10-foice/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 11,
+      "slug": "chicote",
+      "name": "Chicote",
+      "base": "/oracles/lenormand/cards/11-chicote/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 12,
+      "slug": "passaros",
+      "name": "Pássaros",
+      "base": "/oracles/lenormand/cards/12-passaros/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 13,
+      "slug": "crianca",
+      "name": "Criança",
+      "base": "/oracles/lenormand/cards/13-crianca/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 14,
+      "slug": "raposa",
+      "name": "Raposa",
+      "base": "/oracles/lenormand/cards/14-raposa/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 15,
+      "slug": "urso",
+      "name": "Urso",
+      "base": "/oracles/lenormand/cards/15-urso/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 16,
+      "slug": "estrelas",
+      "name": "Estrelas",
+      "base": "/oracles/lenormand/cards/16-estrelas/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 17,
+      "slug": "cegonha",
+      "name": "Cegonha",
+      "base": "/oracles/lenormand/cards/17-cegonha/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 18,
+      "slug": "cao",
+      "name": "Cão",
+      "base": "/oracles/lenormand/cards/18-cao/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 19,
+      "slug": "torre",
+      "name": "Torre",
+      "base": "/oracles/lenormand/cards/19-torre/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 20,
+      "slug": "jardim",
+      "name": "Jardim",
+      "base": "/oracles/lenormand/cards/20-jardim/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 21,
+      "slug": "montanha",
+      "name": "Montanha",
+      "base": "/oracles/lenormand/cards/21-montanha/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 22,
+      "slug": "caminhos",
+      "name": "Caminhos",
+      "base": "/oracles/lenormand/cards/22-caminhos/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 23,
+      "slug": "ratos",
+      "name": "Ratos",
+      "base": "/oracles/lenormand/cards/23-ratos/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 24,
+      "slug": "coracao",
+      "name": "Coração",
+      "base": "/oracles/lenormand/cards/24-coracao/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 25,
+      "slug": "alianca",
+      "name": "Aliança",
+      "base": "/oracles/lenormand/cards/25-alianca/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 26,
+      "slug": "livro",
+      "name": "Livro",
+      "base": "/oracles/lenormand/cards/26-livro/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 27,
+      "slug": "carta",
+      "name": "Carta",
+      "base": "/oracles/lenormand/cards/27-carta/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 28,
+      "slug": "homem",
+      "name": "Homem",
+      "base": "/oracles/lenormand/cards/28-homem/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 29,
+      "slug": "mulher",
+      "name": "Mulher",
+      "base": "/oracles/lenormand/cards/29-mulher/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 30,
+      "slug": "lirios",
+      "name": "Lírios",
+      "base": "/oracles/lenormand/cards/30-lirios/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 31,
+      "slug": "sol",
+      "name": "Sol",
+      "base": "/oracles/lenormand/cards/31-sol/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 32,
+      "slug": "lua",
+      "name": "Lua",
+      "base": "/oracles/lenormand/cards/32-lua/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 33,
+      "slug": "chave",
+      "name": "Chave",
+      "base": "/oracles/lenormand/cards/33-chave/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 34,
+      "slug": "peixes",
+      "name": "Peixes",
+      "base": "/oracles/lenormand/cards/34-peixes/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 35,
+      "slug": "ancora",
+      "name": "Âncora",
+      "base": "/oracles/lenormand/cards/35-ancora/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    },
+    {
+      "number": 36,
+      "slug": "cruz",
+      "name": "Cruz",
+      "base": "/oracles/lenormand/cards/36-cruz/artwork",
+      "formats": [
+        "svg",
+        "png",
+        "webp"
+      ],
+      "status": "provisional"
+    }
+  ],
+  "traditions": [
+    {
+      "slug": "catolico",
+      "name": "Catolicismo",
+      "assets": {
+        "cover": [
+          "/traditions/catolico/cover.svg",
+          "/traditions/catolico/cover.png",
+          "/traditions/catolico/cover.webp"
+        ],
+        "social": [
+          "/traditions/catolico/social.svg",
+          "/traditions/catolico/social.png",
+          "/traditions/catolico/social.webp"
+        ],
+        "symbol": [
+          "/traditions/catolico/symbol.svg",
+          "/traditions/catolico/symbol.png",
+          "/traditions/catolico/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "islamismo",
+      "name": "Islamismo",
+      "assets": {
+        "cover": [
+          "/traditions/islamismo/cover.svg",
+          "/traditions/islamismo/cover.png",
+          "/traditions/islamismo/cover.webp"
+        ],
+        "social": [
+          "/traditions/islamismo/social.svg",
+          "/traditions/islamismo/social.png",
+          "/traditions/islamismo/social.webp"
+        ],
+        "symbol": [
+          "/traditions/islamismo/symbol.svg",
+          "/traditions/islamismo/symbol.png",
+          "/traditions/islamismo/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "judaismo",
+      "name": "Judaísmo",
+      "assets": {
+        "cover": [
+          "/traditions/judaismo/cover.svg",
+          "/traditions/judaismo/cover.png",
+          "/traditions/judaismo/cover.webp"
+        ],
+        "social": [
+          "/traditions/judaismo/social.svg",
+          "/traditions/judaismo/social.png",
+          "/traditions/judaismo/social.webp"
+        ],
+        "symbol": [
+          "/traditions/judaismo/symbol.svg",
+          "/traditions/judaismo/symbol.png",
+          "/traditions/judaismo/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "hinduismo",
+      "name": "Hinduísmo",
+      "assets": {
+        "cover": [
+          "/traditions/hinduismo/cover.svg",
+          "/traditions/hinduismo/cover.png",
+          "/traditions/hinduismo/cover.webp"
+        ],
+        "social": [
+          "/traditions/hinduismo/social.svg",
+          "/traditions/hinduismo/social.png",
+          "/traditions/hinduismo/social.webp"
+        ],
+        "symbol": [
+          "/traditions/hinduismo/symbol.svg",
+          "/traditions/hinduismo/symbol.png",
+          "/traditions/hinduismo/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "budismo",
+      "name": "Budismo",
+      "assets": {
+        "cover": [
+          "/traditions/budismo/cover.svg",
+          "/traditions/budismo/cover.png",
+          "/traditions/budismo/cover.webp"
+        ],
+        "social": [
+          "/traditions/budismo/social.svg",
+          "/traditions/budismo/social.png",
+          "/traditions/budismo/social.webp"
+        ],
+        "symbol": [
+          "/traditions/budismo/symbol.svg",
+          "/traditions/budismo/symbol.png",
+          "/traditions/budismo/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "taoismo",
+      "name": "Taoismo",
+      "assets": {
+        "cover": [
+          "/traditions/taoismo/cover.svg",
+          "/traditions/taoismo/cover.png",
+          "/traditions/taoismo/cover.webp"
+        ],
+        "social": [
+          "/traditions/taoismo/social.svg",
+          "/traditions/taoismo/social.png",
+          "/traditions/taoismo/social.webp"
+        ],
+        "symbol": [
+          "/traditions/taoismo/symbol.svg",
+          "/traditions/taoismo/symbol.png",
+          "/traditions/taoismo/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "umbanda",
+      "name": "Umbanda",
+      "assets": {
+        "cover": [
+          "/traditions/umbanda/cover.svg",
+          "/traditions/umbanda/cover.png",
+          "/traditions/umbanda/cover.webp"
+        ],
+        "social": [
+          "/traditions/umbanda/social.svg",
+          "/traditions/umbanda/social.png",
+          "/traditions/umbanda/social.webp"
+        ],
+        "symbol": [
+          "/traditions/umbanda/symbol.svg",
+          "/traditions/umbanda/symbol.png",
+          "/traditions/umbanda/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "candomble",
+      "name": "Candomblé",
+      "assets": {
+        "cover": [
+          "/traditions/candomble/cover.svg",
+          "/traditions/candomble/cover.png",
+          "/traditions/candomble/cover.webp"
+        ],
+        "social": [
+          "/traditions/candomble/social.svg",
+          "/traditions/candomble/social.png",
+          "/traditions/candomble/social.webp"
+        ],
+        "symbol": [
+          "/traditions/candomble/symbol.svg",
+          "/traditions/candomble/symbol.png",
+          "/traditions/candomble/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    },
+    {
+      "slug": "default",
+      "name": "Tradição",
+      "assets": {
+        "cover": [
+          "/traditions/default/cover.svg",
+          "/traditions/default/cover.png",
+          "/traditions/default/cover.webp"
+        ],
+        "social": [
+          "/traditions/default/social.svg",
+          "/traditions/default/social.png",
+          "/traditions/default/social.webp"
+        ],
+        "symbol": [
+          "/traditions/default/symbol.svg",
+          "/traditions/default/symbol.png",
+          "/traditions/default/symbol.webp"
+        ]
+      },
+      "status": "provisional"
+    }
+  ]
+}
