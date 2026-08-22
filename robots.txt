@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /
-Disallow: /studio
-Disallow: /pagamento/
+Disallow: /acesso
+Disallow: /admin/
+Disallow: /carteira
 Disallow: /historico
+Disallow: /minha-area
+Disallow: /pagamento/
+Disallow: /preferencias-de-privacidade
+Disallow: /studio
 
 Sitemap: https://temqueterfe.com.br/sitemap.xml
